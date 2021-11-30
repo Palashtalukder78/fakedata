@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "projectName": "BD CAR HOUSE",
+        "category": "mern",
+        "liveLink": "https://bd-car-house.web.app/",
+        "gitLink": "https://github.com/Palashtalukder78/bd-car-house",
+        "gitServerLink": "https://github.com/Palashtalukder78/-bd-car-house-server",
+        "overview": "It is a single page Niche-website. I will create the website focus on Car base Products. In the home page , we can see 6 Section like as(Navigation, Banner.Products, Looking for a car, Clients reviews and Footer. In the banner, there have a explore button, where you can go all cars/ products page.Another page is Dashboard. Dashboard has 2 Actors: Admin and Customer. Customer's activity in dashboard: pay, my orders and Reviews. Admins's activity in dashboard: Manage all orders, manage all products and make admin. Finaly they can logout from the Logout Button",
+        "feturedPhoto": "https://i.postimg.cc/mD7WHdxk/featured.png",
+        "photo1": "https://i.ibb.co/Y0pv08s/home1.png",
+        "photo2": "https://i.ibb.co/ypccL9J/checkout.png",
+        "photo3": "https://i.ibb.co/4jkcvWQ/review.png",
+        "technologies": [
+            "React",
+            "Express",
+            "Mongodb",
+            "Node",
+            "Material Ui",
+            "Firebase",
+            "Heroku"
+        ]
+    },
+    {
+        "id": 2,
+        "projectName": "BD CAR HOUSE",
+        "category": "mern",
+        "liveLink": "https://bd-car-house.web.app/",
+        "gitLink": "https://github.com/Palashtalukder78/bd-car-house",
+        "gitServerLink": "https://github.com/Palashtalukder78/-bd-car-house-server",
+        "overview": "It is a single page Niche-website. I will create the website focus on Car base Products. In the home page , we can see 6 Section like as(Navigation, Banner.Products, Looking for a car, Clients reviews and Footer. In the banner, there have a explore button, where you can go all cars/ products page.Another page is Dashboard. Dashboard has 2 Actors: Admin and Customer. Customer's activity in dashboard: pay, my orders and Reviews. Admins's activity in dashboard: Manage all orders, manage all products and make admin. Finaly they can logout from the Logout Button",
+        "feturedPhoto": "https://i.postimg.cc/mD7WHdxk/featured.png",
+        "photo1": "https://i.ibb.co/Y0pv08s/home1.png",
+        "photo2": "https://i.ibb.co/ypccL9J/checkout.png",
+        "photo3": "https://i.ibb.co/4jkcvWQ/review.png",
+        "technologies": [
+            "React",
+            "Express",
+            "Mongodb",
+            "Node",
+            "Material Ui",
+            "Firebase",
+            "Heroku"
+        ]
+    }
+]
