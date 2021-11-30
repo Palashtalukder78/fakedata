@@ -5,20 +5,46 @@
         "category": "mern",
         "liveLink": "https://bd-car-house.web.app/",
         "gitLink": "https://github.com/Palashtalukder78/bd-car-house",
-        "gitServerLink": "https://github.com/Palashtalukder78/-bd-car-house-server",
         "overview": "It is a single page Niche-website. I will create the website focus on Car base Products. In the home page , we can see 6 Section like as(Navigation, Banner.Products, Looking for a car, Clients reviews and Footer. In the banner, there have a explore button, where you can go all cars/ products page.Another page is Dashboard. Dashboard has 2 Actors: Admin and Customer. Customer's activity in dashboard: pay, my orders and Reviews. Admins's activity in dashboard: Manage all orders, manage all products and make admin. Finaly they can logout from the Logout Button",
         "feturedPhoto": "https://i.postimg.cc/mD7WHdxk/featured.png",
         "photo1": "https://i.postimg.cc/GpW1tW56/checkout.png",
         "photo2": "https://i.postimg.cc/QM93X80p/review.png",
-        "photo3": "https://i.postimg.cc/gjdFqvdD/screencapture-bd-car-house-web-app-2021-11-30-11-38-28-2.png",
-        "technologies": [
-            "React",
-            "Express",
-            "Mongodb",
-            "Node",
-            "Material Ui",
-            "Firebase",
-            "Heroku"
-        ]
+        "photo3": "https://i.postimg.cc/gjdFqvdD/screencapture-bd-car-house-web-app-2021-11-30-11-38-28-2.png"
+    },
+    {
+        "id": "2",
+        "projectName": "TALUKDER TOUR AND TRAVELS",
+        "category": "mern",
+        "liveLink": "https://talukder-tour-and-travel.web.app/",
+        "gitLink": "https://github.com/Palashtalukder78/talukder-tour-and-travels",
+        "overview": "It is a Tourism we application there a tourist can book their choosen Package user can delete their booking Package .user can see his/her booking Package in my packages .User can manage all packages in Manage all package and he/she can delete Registered package .Initially when a user will register for a package then it is status will be Pending and user can update the status from Manage all Package",
+        "feturedPhoto": "https://i.postimg.cc/x8QyTTGq/screencapture-talukder-tour-and-travel-web-app-2021-11-30-15-55-27-1.png",
+        "photo1": "https://i.postimg.cc/13XX6hJt/screencapture-talukder-tour-and-travel-web-app-register-617e8a3d62935dcc7f547575-2021-11-30-15-56-08.png",
+        "photo2": "https://i.postimg.cc/dt4DLtRp/screencapture-talukder-tour-and-travel-web-app-manage-packages-2021-11-30-15-56-24-1.png",
+        "photo3": "https://i.postimg.cc/zvqXG9yq/screencapture-talukder-tour-and-travel-web-app-2021-11-30-15-55-27-1.png"
+    },
+    {
+        "id": "2",
+        "projectName": "MEDI SERVICE",
+        "category": "react",
+        "liveLink": "https://mediservice-9e3dc.web.app/",
+        "gitLink": "https://github.com/Palashtalukder78/medical-service",
+        "overview": "It is a Medical Center, where you get serve from us.We have some specialist for solving your health issues. You can make a request for an appoinment. We have different department for serve you. You can freely message us about your problem",
+        "feturedPhoto": "https://i.postimg.cc/Kvww7C2f/screencapture-mediservice-9e3dc-web-app-2021-11-30-16-04-15-1.png",
+        "photo1": "https://i.postimg.cc/L8Fg16nV/screencapture-mediservice-9e3dc-web-app-pending-appoinment-2021-11-30-16-05-38-1.png",
+        "photo2": "https://i.postimg.cc/28ZByB86/screencapture-mediservice-9e3dc-web-app-make-appoinment-2021-11-30-16-05-12-1.png",
+        "photo3": "https://i.postimg.cc/q7jNSsQm/screencapture-mediservice-9e3dc-web-app-2021-11-30-16-04-15-1.png"
+    },
+    {
+        "id": "2",
+        "projectName": "RED ONION",
+        "category": "react",
+        "liveLink": "https://hot-onion-cd86a.web.app/",
+        "gitLink": "https://github.com/Palashtalukder78/red-onion-food",
+        "overview": "It is a Food shop, where you get different food from us.We have some Categories like as Dinner,breakfast and Launch. You can order through login and billing address. You can freely message us about your problem",
+        "feturedPhoto": "https://i.postimg.cc/wMDXpMw4/screencapture-hot-onion-cd86a-web-app-2021-11-30-16-18-54.png",
+        "photo1": "https://i.postimg.cc/ZK33BWFw/screencapture-hot-onion-cd86a-web-app-food-8-2021-11-30-16-19-19.png",
+        "photo2": "https://i.postimg.cc/QCzB93HG/screencapture-hot-onion-cd86a-web-app-checkout-2021-11-30-16-20-46.png",
+        "photo3": "https://i.postimg.cc/3RsNYZ6Y/screencapture-hot-onion-cd86a-web-app-2021-11-30-16-18-54.png"
     }
 ]
